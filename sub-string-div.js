@@ -19,3 +19,7 @@ function permut(string) {
   }
   return permutations;
 }
+
+function searchPerms() {
+  let permArray = permut("1234567890");
+}
